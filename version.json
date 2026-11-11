@@ -1,7 +1,7 @@
 {
-    "version":  "1.77.0",
+    "version":  "1.79.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.77.0/OrzoneMatchDay-Setup-1.77.0.exe",
-    "sha256":  "1680e97a805a8111bf6356efa05df795d432ba9df275b0a9345b24878331ede4",
-    "notes":  "Les 4 facteurs (foot, basket, hockey, tennis), le mode Multisport, le handball et la mise à jour en un clic."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.79.0/OrzoneMatchDay-Setup-1.79.0.exe",
+    "sha256":  "2347a7c6cb6817f9538731c022d161da18f70298c03a51058f2a0e20a14e640b",
+    "notes":  "Suivi de vos mises et de vos gains, page « Le bilan », partage des coupons en image, notifications Windows."
 }
