@@ -1,7 +1,7 @@
 {
-    "version":  "1.81.0",
+    "version":  "1.82.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.81.0/OrzoneMatchDay-Setup-1.81.0.exe",
-    "sha256":  "e1eca20a45f1f70cdecbbf306ab30b96bdbf5872a9ff5ca7da488da14ff4f81f",
-    "notes":  "Nouveau : « Créer un coupon sur ce match » (tous les paris d\u0027un match, chance réelle de l\u0027ensemble). Grosses cotes libres jusqu\u0027à 10 000 avec 20 matchs au plus."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.82.0/OrzoneMatchDay-Setup-1.82.0.exe",
+    "sha256":  "49e38d5127e0dd3c0d1d1226e8a96911f6a162e1b42d2927e496d09343a1b29a",
+    "notes":  "Mise à jour automatique plus fiable. Nouveau : « Créer un coupon sur ce match » (tous les paris d\u0027un match, chance réelle de l\u0027ensemble). Grosses cotes libres jusqu\u0027à 10 000 avec 20 matchs au plus."
 }
