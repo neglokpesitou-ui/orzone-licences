@@ -1,7 +1,7 @@
 {
-    "version":  "1.84.0",
+    "version":  "1.85.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.84.0/OrzoneMatchDay-Setup-1.84.0.exe",
-    "sha256":  "6342a2ba6805fa362774b995098a77c9492f792b42808b9c013d2cc93c864ecd",
-    "notes":  "Basket : matchs NBA de la nuit comptés pour ce soir, nouveaux paris points d\u0027une équipe, groupe Basket dans les coupons du jour, « Créer un coupon sur ce match » pour le basket. Téléchargement des mises à jour qui reprend après une coupure."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.85.0/OrzoneMatchDay-Setup-1.85.0.exe",
+    "sha256":  "56afb60c55445c915d65195c5b4b08252f000b595a1df26125d1f3f82adb4cdf",
+    "notes":  "Absents pesés selon leur importance réelle : part des buts et passes (football), points par match (basket), défenseurs et gardien titulaires. Affichés dans l\u0027analyse et dans « Pourquoi ce pari »."
 }
