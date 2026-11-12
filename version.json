@@ -1,7 +1,7 @@
 {
-    "version":  "1.85.0",
+    "version":  "1.86.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.85.0/OrzoneMatchDay-Setup-1.85.0.exe",
-    "sha256":  "56afb60c55445c915d65195c5b4b08252f000b595a1df26125d1f3f82adb4cdf",
-    "notes":  "Absents pesés selon leur importance réelle : part des buts et passes (football), points par match (basket), défenseurs et gardien titulaires. Affichés dans l\u0027analyse et dans « Pourquoi ce pari »."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.86.0/OrzoneMatchDay-Setup-1.86.0.exe",
+    "sha256":  "89e69438845dcd597cdb8eedf261a8eadc93130f3dd600852d774714da8edc8d",
+    "notes":  "Coupons du jour en premier : le bilan s\u0027ouvre avec le bouton « 📊 Le bilan » (aussi dans Historique). Absents pesés selon leur importance réelle (football et basket)."
 }
