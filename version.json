@@ -1,7 +1,7 @@
 {
-    "version":  "1.87.0",
+    "version":  "1.89.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.87.0/OrzoneMatchDay-Setup-1.87.0.exe",
-    "sha256":  "33f046f5673d5b5415ce7cad2d2a4165371d5b86df09825a2c76a7d517819c60",
-    "notes":  "Essai gratuit remis à 7 jours. Coupons du jour en premier (bilan sur le bouton « Le bilan »). Absents pesés selon leur importance réelle."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.89.0/OrzoneMatchDay-Setup-1.89.0.exe",
+    "sha256":  "2e6dbd3fe8901fc911a7c083ac467fa4aa5772b01459b7d288e7018a22451f82",
+    "notes":  "Nouveau : paris sur les joueurs (tirs et tirs cadrés au football, points, rebonds et passes au basket), mode Aventureux, rendement dans Le bilan, application Android sur le même Wi-Fi."
 }
