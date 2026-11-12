@@ -1,7 +1,7 @@
 {
-    "version":  "1.86.0",
+    "version":  "1.87.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.86.0/OrzoneMatchDay-Setup-1.86.0.exe",
-    "sha256":  "89e69438845dcd597cdb8eedf261a8eadc93130f3dd600852d774714da8edc8d",
-    "notes":  "Coupons du jour en premier : le bilan s\u0027ouvre avec le bouton « 📊 Le bilan » (aussi dans Historique). Absents pesés selon leur importance réelle (football et basket)."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.87.0/OrzoneMatchDay-Setup-1.87.0.exe",
+    "sha256":  "33f046f5673d5b5415ce7cad2d2a4165371d5b86df09825a2c76a7d517819c60",
+    "notes":  "Essai gratuit remis à 7 jours. Coupons du jour en premier (bilan sur le bouton « Le bilan »). Absents pesés selon leur importance réelle."
 }
