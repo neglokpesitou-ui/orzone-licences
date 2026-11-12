@@ -1,7 +1,7 @@
 {
-    "version":  "1.79.0",
+    "version":  "1.80.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.79.0/OrzoneMatchDay-Setup-1.79.0.exe",
-    "sha256":  "2347a7c6cb6817f9538731c022d161da18f70298c03a51058f2a0e20a14e640b",
-    "notes":  "Suivi de vos mises et de vos gains, page « Le bilan », partage des coupons en image, notifications Windows."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.80.0/OrzoneMatchDay-Setup-1.80.0.exe",
+    "sha256":  "f98111c096be934ee3c3b46d128990e4195745b9af74c8ade50f05b08101be0c",
+    "notes":  "Moteur plus flexible : nouveaux paris (combinés, minutes, mi-temps, buts d\u0027une équipe), jeu sur la faiblesse, pari d\u0027appui, menu Types de paris, coupon de mes favoris, coupons prêts au démarrage du PC."
 }
