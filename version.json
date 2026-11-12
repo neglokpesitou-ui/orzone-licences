@@ -1,7 +1,7 @@
 {
-    "version":  "1.80.0",
+    "version":  "1.81.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.80.0/OrzoneMatchDay-Setup-1.80.0.exe",
-    "sha256":  "f98111c096be934ee3c3b46d128990e4195745b9af74c8ade50f05b08101be0c",
-    "notes":  "Moteur plus flexible : nouveaux paris (combinés, minutes, mi-temps, buts d\u0027une équipe), jeu sur la faiblesse, pari d\u0027appui, menu Types de paris, coupon de mes favoris, coupons prêts au démarrage du PC."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.81.0/OrzoneMatchDay-Setup-1.81.0.exe",
+    "sha256":  "e1eca20a45f1f70cdecbbf306ab30b96bdbf5872a9ff5ca7da488da14ff4f81f",
+    "notes":  "Nouveau : « Créer un coupon sur ce match » (tous les paris d\u0027un match, chance réelle de l\u0027ensemble). Grosses cotes libres jusqu\u0027à 10 000 avec 20 matchs au plus."
 }
