@@ -1,7 +1,7 @@
 {
-    "version":  "1.89.0",
+    "version":  "2.0.0",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v1.89.0/OrzoneMatchDay-Setup-1.89.0.exe",
-    "sha256":  "2e6dbd3fe8901fc911a7c083ac467fa4aa5772b01459b7d288e7018a22451f82",
-    "notes":  "Nouveau : paris sur les joueurs (tirs et tirs cadrés au football, points, rebonds et passes au basket), mode Aventureux, rendement dans Le bilan, application Android sur le même Wi-Fi."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v2.0.0/OrzoneMatchDay-Setup-2.0.0.exe",
+    "sha256":  "8943cd4a4bfa40d0fec177e3e1635666f91b96bb5d8dd32fda4f4d0de6db5079",
+    "notes":  "Version 2.0 : tous les coupons du jour en mode Équilibré (cote 2, 5 et 10 par sport, Multisport équilibré), nouveau mode Favori + buts, mode Libre pour les grosses cotes, mémoire permanente des équipes livrée avec l\u0027application (vous ne partez pas de zéro), moins de requêtes et application plus rapide, reconnexion automatique après la mise en veille, boutons indépendants (Vérifier les résultats ne bloque plus)."
 }
