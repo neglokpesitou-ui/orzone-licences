@@ -2,6 +2,6 @@
     "version":  "2.0.2",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
     "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v2.0.2/OrzoneMatchDay-Setup-2.0.2.exe",
-    "sha256":  "a634055eec96655e9631b78cfb2ee5322ad23315a0df207a2f6b7ad92cf3184f",
+    "sha256":  "075ae2a87d92c0d5a2ee96af15c0288807665e193e96ea701a10a8d490de71d0",
     "notes":  "Version 2.0.2 : les 4 facteurs font maintenant 60 % des buts attendus au football ; le moteur pèse davantage face au bookmaker quand ses facteurs sont nets ; calibrage automatique (le moteur corrige ses probabilités par type de pari d\u0027après ses résultats réels) ; handball et « les deux équipes marquent » plus prudents."
 }
