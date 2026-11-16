@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.2",
-    "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v2.0.2/OrzoneMatchDay-Setup-2.0.2.exe",
-    "sha256":  "075ae2a87d92c0d5a2ee96af15c0288807665e193e96ea701a10a8d490de71d0",
-    "notes":  "Version 2.0.2 : les 4 facteurs font maintenant 60 % des buts attendus au football ; le moteur pèse davantage face au bookmaker quand ses facteurs sont nets ; calibrage automatique (le moteur corrige ses probabilités par type de pari d\u0027après ses résultats réels) ; handball et « les deux équipes marquent » plus prudents."
+    "version": "2.1.0",
+    "url": "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
+    "setup_url": "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v2.1.0/SageProno-Setup-2.1.0.exe",
+    "sha256": "d0df884fc64a2ade309d6d9f64e9dc23bb3968a0211ce593b769822a6e3f5e01",
+    "notes": "📣 Orzone MatchDay change de nom : l'application s'appelle désormais SageProno. Votre licence, vos favoris et votre historique sont conservés. Nouveautés : générique d'ouverture, Lecture des facteurs pour tous les sports, coupons de la nuit à part, jamais deux fois le même coupon."
 }
