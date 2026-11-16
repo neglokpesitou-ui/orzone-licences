@@ -1,7 +1,7 @@
 {
-    "version":  "2.1.0",
+    "version":  "2.1.4",
     "url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/latest",
-    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v2.1.0/SageProno-Setup-2.1.0.exe",
-    "sha256":  "f3e1514e72f035d088057897a55287dc19d46aaca9246bdc836754d64668d9c0",
-    "notes":  "📣 Orzone MatchDay change de nom : l\u0027application s\u0027appelle désormais SageProno. Votre licence, vos favoris et votre historique sont conservés. Nouveautés : générique d\u0027ouverture, Lecture des facteurs pour tous les sports, coupons de la nuit à part, jamais deux fois le même coupon."
+    "setup_url":  "https://github.com/neglokpesitou-ui/orzone-licences/releases/download/v2.1.4/SageProno-Setup-2.1.4.exe",
+    "sha256":  "8152fc46d0a9440f00ab65d12788cab6da13c2f34b5538e5b92e3c7c73f93396",
+    "notes":  "📣 Orzone MatchDay s\u0027appelle désormais SageProno : licence, favoris et historique conservés. Nouveau : choix de tes équipes, page Coupons simplifiée, Paramètres rangés en rubriques, Lecture des facteurs pour tous les sports."
 }
